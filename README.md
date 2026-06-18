@@ -1,3 +1,3 @@
 # practice
 This is for practice
-Author Sushma
+Author Sushma Jamdi
